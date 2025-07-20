@@ -59,15 +59,9 @@ Helps banks target the right people for offers, growing their business.
 
 Makes their loan decisions smarter and data-driven.
 
+Through this project, I learnt how to clean and analyse real-world banking data using PySpark and SQL.
+These skills are useful to help banks make better loan approval decisions, identify risky applicants, and target the right customers for offers.
 
-### Learnt how to clean and analyse bank data using PySpark and SQL to help banks make smarter and safer loan decisions.
 
-Using PySpark transformations and SQL for business analysis.
-
-Categorising applicants based on credit risk levels.
-
-Filtering data for targeted offers and decisions.
-
-Applying window functions, CTEs, and joins for advanced SQL analysis.
 
 
