@@ -50,9 +50,13 @@ Created CTEs to calculate Total_Income and filter records with income > 6000.
 ## Use Case in Banking
 
 Banks can know who can repay loans easily.
+
 They can avoid giving loans to risky people, reducing losses.
+
 They can approve loans faster for safe customers.
+
 Helps banks target the right people for offers, growing their business.
+
 Makes their loan decisions smarter and data-driven.
 
 
